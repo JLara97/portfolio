@@ -1,7 +1,7 @@
 import React from 'react';
-import Sidebar from '../Sidebar';
-import UserHeader from '../UserHeader';
-import MobileNav from '../MobileNav';
+import Sidebar from '../SideBar/Sidebar';
+import UserHeader from '../UserHeader/UserHeader';
+import MobileNav from '../MobileNav/MobileNav';
 
 import { StyledContent } from './styles';
 

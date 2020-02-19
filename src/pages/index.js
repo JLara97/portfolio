@@ -5,7 +5,7 @@ import Projects from './Projects';
 import Work from './Work';
 import Education from './Education';
 
-const Pages = ({ user }) => {
+const Pages = ( {user} ) => {
   return (
     <Router>
       <Switch>
